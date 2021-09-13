@@ -161,6 +161,10 @@ button:active {
     background-image: url("image/bank.jpg");
     background-position: center;   
 }
+.box-4{
+    background-image: url("image/cars.jpg");
+    background-position: center;
+}
 .box-container {
     display: flex;
     justify-content: space-evenly;
